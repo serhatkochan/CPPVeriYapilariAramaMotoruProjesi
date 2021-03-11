@@ -1,0 +1,2 @@
+# VeriYapilariAramaMotoruProjesi
+Veri Yapıları Dersi Projesi : Arama Motoru Tasarımı
